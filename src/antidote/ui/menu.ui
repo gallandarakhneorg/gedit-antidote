@@ -1,0 +1,12 @@
+<ui>
+	<menubar name="MenuBar">
+		<menu name="ToolsMenu" action="Tools">
+			<placeholder name="ToolsOps_1">
+				<separator/>
+				<menuitem action="AntidoteLaunch"/>
+				<separator/>
+			</placeholder>
+		</menu>
+	</menubar>
+</ui>
+

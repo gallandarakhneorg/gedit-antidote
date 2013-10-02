@@ -1,0 +1,18 @@
+h1. Presentation
+
+@gedit-plugin@ is a collection plugins for Gedit that permits to
+use the Antidote grammatical tool.
+
+h2. Author
+
+Dr. Stéphane GALLAND
+
+http://www.arakhne.org/homes/galland.html
+http://www.multiagent.fr/People:Galland_stephane
+
+h2. License
+
+GNU LESSER GENERAL PUBLIC LICENSE for the source code.
+The logos are owned by the corresponding institutions.
+
+

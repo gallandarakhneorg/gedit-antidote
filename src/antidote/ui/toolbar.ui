@@ -1,0 +1,9 @@
+<ui>
+<toolbar name="ToolBar">
+    <placeholder name="Antidote_toolbar">
+        <separator/>
+        <toolitem action="AntidoteLaunch"/>
+    </placeholder>
+</toolbar>
+</ui>
+

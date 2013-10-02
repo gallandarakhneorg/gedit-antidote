@@ -1,0 +1,15 @@
+[Plugin]
+Loader=python
+Module=antidote
+Version=1.0.0
+IAge=3
+Name=Antidote
+Name[en_GB]=Antidote
+Name[fr]=Antidote
+Description=Antidote grammar/spell checker
+Description[en_GB]=Antidote grammar/spell checker
+Description[fr]=Correcteur grammatical et orthographique Antidote
+Icon=antidote
+Authors=Stéphane Galland  <galland@arakhne.org>
+Copyright=Copyright © 2013 Stéphane Galland
+Website=http://www.arakhne.org/
